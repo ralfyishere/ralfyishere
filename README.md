@@ -10,6 +10,7 @@ I build with AI agents and I don't trust claims without evidence. Including my o
 - [agent-failure-modes](https://github.com/ralfyishere/agent-failure-modes) — the AFM Index: numbered failure modes of AI coding agents, with detection traps and evidence grades
 
 **Start here:**
+- About to let an agent into an unknown repo? → `pipx install agent-zero-trust`, then `azt scan .` ([agent-zero-trust](https://github.com/ralfyishere/agent-zero-trust)).
 - Want the operating discipline? → Install [rules-with-receipts](https://github.com/ralfyishere/rules-with-receipts) (60-second bootstrap in the README).
 - Want to test your own rules file? → `pipx install rulebench` ([rulebench](https://github.com/ralfyishere/rulebench)).
 - Want the failure taxonomy? → Read the [AFM Index](https://github.com/ralfyishere/agent-failure-modes) (start with "the five you'll see this week").
